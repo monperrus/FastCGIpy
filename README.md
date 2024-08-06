@@ -17,6 +17,7 @@ Notes:
 
 * Fork from https://github.com/pquentin/flup-py3/blob/master/flup/client/fcgi_app.py, without any WSGI
 * FastCGI Specification: https://fastcgi-archives.github.io/FastCGI_Specification.html (29 April 1996)
+* nginx fastcgi module: http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html
 * Related work
   - https://github.com/hollodotme/fast-cgi-client in PHP
   - https://www.npmjs.com/package/fastcgi-client in Javascript
